@@ -10,7 +10,7 @@
 
 ---
 
-## 1. Problem Statement & Motivation
+## 1. Problem Statement 
 
 In high-stakes academic, career, and civic processes—such as applying for competitive scholarships, college admissions, internships, or government schemes—users routinely consult multiple websites, notifications, and advisories.
 
@@ -114,30 +114,6 @@ Open your browser and navigate to: `http://localhost:3000`
 npm run build
 npm start
 ```
-
----
-
-## 6. Pre-Loaded Hackathon Demonstration Scenarios
-
-1. **Scenario 1: National Merit STEM Scholarship 2026–27**
-   - **Sources:** Official Ministry Circular 2026–27, State Welfare Advisory 2024–25 (outdated), University Notice 2026.
-   - **Key Finding:** Uncovers a missing Year-2 renewal CGPA condition, detects an obsolete 2.5 Lakh income ceiling vs the 2026 4.5 Lakh limit, and highlights a dangerous contradiction between postal mail submission and paperless portal upload.
-2. **Scenario 2: College Admissions & Lateral Transfers**
-   - Flags an unconfirmed coaching blog cutoff rumor (87% vs official 92.5%) and identifies the complete absence of a syllabus credit mapping rule for lateral transfers.
-3. **Scenario 3: Software Engineering Summer Internship 2027**
-   - Flags batch graduation year conflicts (2027 vs 2028 batch) and identifies the total omission of employee IP assignment / non-compete clauses.
-
----
-
-## 7. Judge & CSE Student Presentation Guide
-
-Click the **"Judge & CSE Guide"** button in the top navigation bar inside the app for:
-- A timed 3-minute hackathon pitch script.
-- Answers to tricky questions: *"Why gap detection is harder than summarization"*, *"How SSRF defense works"*, and *"How hallucinations are prevented"*.
-- The exact Unista submission text.
-
----
-
 ## 8. License
 
 Apache-2.0 License. Built for the Shinchan Online Hackathon 2026.
